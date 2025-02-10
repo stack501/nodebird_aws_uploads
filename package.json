@@ -1,0 +1,24 @@
+{
+  "name": "17_aws_uploads",
+  "version": "1.0.0",
+  "description": "Nodebird 이미지 업로드 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stack501/nodebird_aws_uploads.git"
+  },
+  "keywords": [],
+  "author": "junny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stack501/nodebird_aws_uploads/issues"
+  },
+  "homepage": "https://github.com/stack501/nodebird_aws_uploads#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.744.0",
+    "sharp": "^0.33.5"
+  }
+}
